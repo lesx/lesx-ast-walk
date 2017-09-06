@@ -1,6 +1,6 @@
 {
   "name": "lesx-ast-walk",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "acorn lesx ast walk",
   "main": "./lib/index.js",
   "scripts": {
