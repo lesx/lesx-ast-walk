@@ -1,12 +1,12 @@
-# acorn-ast-walk
+# lesx-ast-walk
 
-acorn jsx ast walk。
+acorn lesx ast walk。
 
 
 ## example
 
 ```javascript
-import walk, { base } from 'acorn-ast-walk';
+import walk, { base } from 'lesx-ast-walk';
  
 // base contains all the possible node walkers, see walk.js 
 // Program, BlockStatement, ExpressionStatement, SwitchStatement etc. 

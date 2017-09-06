@@ -1,14 +1,14 @@
 {
-  "name": "acorn-ast-walk",
-  "version": "0.0.2",
-  "description": "acorn jsx ast walk",
+  "name": "lesx-ast-walk",
+  "version": "0.0.1",
+  "description": "acorn lesx ast walk",
   "main": "./lib/index.js",
   "scripts": {
     "build": "rimraf lib && babel src --out-dir lib"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lesx/acorn-ast-walk.git"
+    "url": "https://github.com/lesx/lesx-ast-walk.git"
   },
   "keywords": [
     "lesx",
